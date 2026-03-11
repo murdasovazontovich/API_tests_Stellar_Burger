@@ -1,0 +1,9 @@
+USER = {"email": "zontovich_39@yandex.ru",
+           "password": "123456",
+           "name": "Екатерина"}
+
+LOGIN_USER = {"email": "zontovich_39@yandex.ru",
+           "password": "123456"}
+
+ORDER = {"ingredients": 
+         ["61c0c5a71d1f82001bdaaa6d", "61c0c5a71d1f82001bdaaa74", "61c0c5a71d1f82001bdaaa7a"]}
